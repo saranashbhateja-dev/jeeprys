@@ -1,0 +1,6 @@
+JEE OS 4.0.0
+Curriculum: jeeos-2026-10-29-v1
+Plan start: 2026-10-29
+Daily plan: 6 lectures (Physics x2, Chemistry x2, Mathematics x2)
+Revision and test framework: retained from reference OS
+Backend: Supabase cloud snapshot sync
